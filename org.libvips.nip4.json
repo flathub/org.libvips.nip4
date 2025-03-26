@@ -301,8 +301,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/libvips/libvips/releases/download/v8.17.0-test2/vips-8.17.0-test2.tar.xz",
-                    "sha256" : "3891d0ad21a863dbe29926e30520500bc76e6d3070cef318fa921b5a87329a47"
+                    "url" : "https://github.com/libvips/libvips/releases/download/v8.17.0-test4/vips-8.17.0-test4.tar.xz",
+                    "sha256" : "0f45f0342a1471fed72dc560fa63d9086299fd57bb6d36bc9bbfff5d130858ca"
                 }
             ]
         },
@@ -334,7 +334,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/jcupitt/nip4.git",
-                    "tag" : "v9.0.4-1"
+                    "tag" : "v9.0.5"
                 }
             ]
         }
