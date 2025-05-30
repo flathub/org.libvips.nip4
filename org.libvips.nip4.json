@@ -294,7 +294,6 @@
             "builddir" : true,
             "buildsystem" : "meson",
             "config-opts" : [
-                "--buildtype=release",
                 "-Ddeprecated=false",
                 "-Dmodules=disabled"
             ],
@@ -327,9 +326,6 @@
             "name" : "nip4",
             "builddir" : true,
             "buildsystem" : "meson",
-            "config-opts" : [
-                "--buildtype=release"
-            ],
             "sources" : [
                 {
                     "type" : "git",
