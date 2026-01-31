@@ -213,24 +213,6 @@
         },
 
         {
-            "name" : "libarchive",
-            "builddir" : true,
-            "buildsystem" : "cmake-ninja",
-            "build-options" : {
-                "config-opts" : [
-                    "-DCMAKE_INSTALL_LIBDIR=lib"
-                ]
-            },
-            "sources" : [
-                {
-                    "type" : "git",
-                    "url" : "https://github.com/libarchive/libarchive.git",
-                    "tag" : "v3.8.1"
-                }
-            ]
-        },
-
-        {
             "name" : "poppler-data",
             "builddir" : true,
             "buildsystem" : "cmake-ninja",
