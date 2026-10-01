@@ -407,7 +407,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/libvips/libvips.git",
-                    "commit" : "bf0664629e9c869b14e6ed2e15aa609e086dfead"
+                    "commit" : "666222d8e1e0dcb2f3940ffcbffcb7b05beb4ddc"
                 }
             ]
         },
